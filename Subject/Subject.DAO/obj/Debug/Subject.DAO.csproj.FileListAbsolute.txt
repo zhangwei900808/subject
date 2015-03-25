@@ -1,0 +1,12 @@
+F:\NProject\Subject\Subject\Subject.DAO\bin\Debug\Subject.DAO.dll
+F:\NProject\Subject\Subject\Subject.DAO\bin\Debug\Subject.DAO.pdb
+F:\NProject\Subject\Subject\Subject.DAO\obj\Debug\Subject.DAO.dll
+F:\NProject\Subject\Subject\Subject.DAO\obj\Debug\Subject.DAO.pdb
+F:\NProject\Subject\Subject\Subject.DAO\bin\Debug\Iesi.Collections.dll
+F:\NProject\Subject\Subject\Subject.DAO\bin\Debug\NHibernate.dll
+F:\NProject\Subject\Subject\Subject.DAO\bin\Debug\Subject.Model.dll
+F:\NProject\Subject\Subject\Subject.DAO\bin\Debug\Subject.Nhibernate.dll
+F:\NProject\Subject\Subject\Subject.DAO\bin\Debug\Subject.Model.pdb
+F:\NProject\Subject\Subject\Subject.DAO\bin\Debug\Subject.Nhibernate.pdb
+F:\NProject\Subject\Subject\Subject.DAO\bin\Debug\AutoMapper.dll
+F:\NProject\Subject\Subject\Subject.DAO\obj\Debug\Subject.DAO.csprojResolveAssemblyReference.cache

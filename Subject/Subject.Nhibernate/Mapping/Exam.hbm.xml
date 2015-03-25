@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+  namespace="Subject.Model" assembly="Subject.Model">
+	<class name="Subject.Model.Exam" table="Exam" lazy="false">
+		<id name="Id">
+			<column name="Id" sql-type="varchar(40)" not-null="true"/>
+			<generator class="uuid.hex" />
+		</id>
+		<property name="ExamType">
+			<column name="ExamType" sql-type="varchar(50)" not-null="false" />
+		</property>
+		<property name="Title">
+			<column name="Title" sql-type="text" not-null="false" />
+		</property>
+		<property name="Answer">
+			<column name="Answer" sql-type="text" not-null="false" />
+		</property>
+		<property name="A">
+			<column name="A" sql-type="text" not-null="false" />
+		</property>
+		<property name="B">
+			<column name="B" sql-type="text" not-null="false" />
+		</property>
+		<property name="C">
+			<column name="C" sql-type="text" not-null="false" />
+		</property>
+		<property name="D">
+			<column name="D" sql-type="text" not-null="false" />
+		</property>
+		<many-to-one name="Resources" column="ResourcesId" class="Resources">
+		</many-to-one>
+	</class>
+</hibernate-mapping>

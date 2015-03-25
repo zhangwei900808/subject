@@ -1,0 +1,77 @@
+﻿.btn-foruminfo
+{
+    width: 900px;
+    margin: 10px 3px;
+    text-align: left;
+}
+#sel-couselist {
+    width: 200px;
+}
+.panel
+{
+    margin: 10px;
+}
+.panel-title
+{
+    text-align: left;
+}
+.ol-course-list
+{
+    width: 900px;
+    margin: 0 auto;
+}
+
+.ol-course-list h2
+{
+    text-align: left;
+    height: 30px;
+    border-bottom: 1px solid green;
+    font-size: 16px;
+    font-weight: bold;
+}
+.ol-table {
+    padding: 0;
+    margin: 0;
+}
+
+.ol-table tr{
+    height: 30px;
+}
+.ol-table tr td:first-child span{
+    margin-left: 20px;
+}
+.ol-table tr td
+{
+    font-size: 14px;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    color: blue;
+}
+
+.add-css1
+{
+    padding: 0 25px;
+}
+.add-css2
+{
+    padding: 0 43px;
+}
+#v-content 
+{
+    width: 950px;
+    margin:40px auto;
+}
+.mejs-container {
+	margin: 0 auto;
+}
+.add-css1 a:hover {
+    cursor: pointer;
+}
+.add-css2 a:hover {
+    cursor: pointer;
+}
+/* :focus for accessibility */
+.mejs-controls .mejs-button button:focus {
+	outline:none;
+}

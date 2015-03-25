@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/Subject/Subject.Model
+END
+User.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/Subject/Subject.Model/User.cs
+END
+Course.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/Subject/Subject.Model/Course.cs
+END
+OperateSystem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/Subject/Subject.Model/OperateSystem.cs
+END
+UserPosts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/Subject/Subject.Model/UserPosts.cs
+END
+Posts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/Subject/Subject.Model/Posts.cs
+END
+Subject.Model.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/Subject/Subject.Model/Subject.Model.csproj
+END
+Resources.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/Subject/Subject.Model/Resources.cs
+END

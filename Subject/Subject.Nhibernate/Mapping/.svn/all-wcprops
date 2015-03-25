@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5/trunk/Subject/Subject.Nhibernate/Mapping
+END
+User.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/Subject/Subject.Nhibernate/Mapping/User.hbm.xml
+END
+Course.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/Subject/Subject.Nhibernate/Mapping/Course.hbm.xml
+END
+OperateSystem.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5/trunk/Subject/Subject.Nhibernate/Mapping/OperateSystem.hbm.xml
+END
+UserPosts.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/Subject/Subject.Nhibernate/Mapping/UserPosts.hbm.xml
+END
+Posts.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/Subject/Subject.Nhibernate/Mapping/Posts.hbm.xml
+END
+Resources.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/Subject/Subject.Nhibernate/Mapping/Resources.hbm.xml
+END

@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D45935EE-E195-40A7-B397-88BB54575952}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Subject.DAO</RootNamespace>
+    <AssemblyName>Subject.DAO</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutoMapper">
+      <HintPath>..\Lib\AutoMapper.dll</HintPath>
+    </Reference>
+    <Reference Include="Iesi.Collections">
+      <HintPath>..\Lib\Iesi.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate">
+      <HintPath>..\Lib\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BootStrapper.cs" />
+    <Compile Include="Implementation\CourseService.cs" />
+    <Compile Include="Implementation\OperateSystemService.cs" />
+    <Compile Include="Implementation\PostsService.cs" />
+    <Compile Include="Implementation\ResourcesService.cs" />
+    <Compile Include="Implementation\UserPostsService.cs" />
+    <Compile Include="Implementation\UserService.cs" />
+    <Compile Include="Interface\IDao.cs" />
+    <Compile Include="Mappers\CourseMapper.cs" />
+    <Compile Include="Mappers\PostsMapper.cs" />
+    <Compile Include="Mappers\ResourcesMapper.cs" />
+    <Compile Include="Mappers\UserPostsMapper.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Views\CourseView.cs" />
+    <Compile Include="Views\PostsView.cs" />
+    <Compile Include="Views\ResourcesView.cs" />
+    <Compile Include="Views\ResourseAndCourseView.cs" />
+    <Compile Include="Views\UserPostsView.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Subject.Model\Subject.Model.csproj">
+      <Project>{CC36CBB5-8120-4E2E-9939-D0D84E30CD45}</Project>
+      <Name>Subject.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Subject.Nhibernate\Subject.Nhibernate.csproj">
+      <Project>{A918F16E-FBEE-4348-8E7C-1B71E4A65A28}</Project>
+      <Name>Subject.Nhibernate</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

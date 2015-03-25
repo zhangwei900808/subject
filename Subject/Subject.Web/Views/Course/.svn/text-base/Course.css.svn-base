@@ -1,0 +1,104 @@
+﻿#content1
+{
+    width: 980px;
+    margin: 0px auto;
+    margin-top: 10px;
+    height: 0;
+}
+#content1 p
+{
+    background-image: url(../../images/bg16.gif);
+    text-align: left;
+    font-size: 14px;
+    color: #000;
+    margin: 5px 15px;
+}
+#content1 #a1
+{
+    color: #000;
+    text-decoration: none;
+}
+#content1 #a1:hover
+{
+    color: #F00;
+}
+#content2
+{
+    width: 980px;
+    margin: 0px auto;
+    margin-top: 0px;
+    padding-top: 10px;
+}
+#content2 h2
+{
+    font-weight: bold;
+    font-size: 16px;
+    color: #003366;
+    line-height: 30px;
+    text-align: center;
+}
+#content2 #p1
+{
+    margin: 2px 5px 5px;
+    width: 95%;
+    color: #111;
+    text-align: center;
+    font-size: 12px;
+    font-family: "Times New Roman" , Times, serif;
+}
+#content2 #p2
+{
+    color: #111;
+    text-align: left;
+    text-indent: 2em;
+    font-size: 14px;
+    line-height: 24px;
+    padding: 5px 15px;
+}
+#content3
+{
+    margin: 0px auto;
+    width: 980px;
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+#content3 h3
+{
+    font-weight: bold;
+    font-size: 16px;
+    padding-bottom: 10px;
+    color: #4c242c;
+    display: inline;
+    margin-bottom: 5px;
+}
+#content3 ul li
+{
+    margin-left: -20px;
+    text-decoration: none;
+    list-style: none;
+    list-style-image: url(../../images/07.gif);
+    font-size: 12px;
+}
+#content3 ul li a
+{
+    text-decoration: none;
+    color: #006699;
+}
+#content3 ul li a:hover
+{
+    color: #F00;
+    text-decoration: underline;
+}
+hr {
+  border-top: 1px solid green;
+}
+#swfu_container {
+    margin: 10px;
+}
+ul{
+  margin-top: 10px;
+}
+.libtn {
+    display: none;
+}

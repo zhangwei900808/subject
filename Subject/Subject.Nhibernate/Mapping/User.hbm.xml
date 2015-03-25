@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+  <hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+    namespace="Subject.Model" assembly="Subject.Model">
+  <class name="Subject.Model.User" table="Users" lazy="false">
+    <id name="Id">
+      <column name="Id" sql-type="varchar(40)" not-null="true"/>
+      <generator class="uuid.hex" />
+    </id>
+    <property name="Name">
+      <column name="Name" sql-type="varchar(20)" not-null="false" />
+    </property>
+    <property name="Password">
+      <column name="Password" sql-type="varchar(20)" not-null="false" />
+    </property>
+    <property name="Sex">
+      <column name="Sex" sql-type="varchar(2)" not-null="false" />
+    </property>
+    <property name="BriefIntroduction">
+      <column name="BriefIntroduction" sql-type="varchar(500)" not-null="false" />
+    </property>
+    <property name="CreateDt">
+      <column name="CreateDt" sql-type="datetime" not-null="false" />
+    </property>
+    <bag name="Postses" inverse="true" cascade="all" lazy="true">
+      <key column="UserId"/>
+      <one-to-many class="Posts"></one-to-many>
+    </bag>
+    <bag name="UserPostses" inverse="true" cascade="all" lazy="true">
+      <key column="UserId"/>
+      <one-to-many class="UserPosts"></one-to-many>
+    </bag>
+  </class>
+</hibernate-mapping>

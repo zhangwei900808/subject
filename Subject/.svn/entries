@@ -1,0 +1,77 @@
+10
+
+dir
+18
+https://zw-subject.googlecode.com/svn/trunk/Subject
+https://zw-subject.googlecode.com/svn
+
+
+
+2014-04-21T06:51:57.877959Z
+18
+zw900808@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+37e03ca7-6ed8-3da9-34e7-ef6a98f3cf8c
+
+Subject.DAO
+dir
+
+Subject.sln
+file
+
+
+
+
+2014-02-08T07:48:11.095763Z
+15cea0d2d9dbbf687c39d605752a5ec6
+2014-02-08T09:00:07.073751Z
+15
+zw900808@gmail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3077
+
+Subject.Web
+dir
+
+Subject.Nhibernate
+dir
+
+Subject.Model
+dir
+
+Subject.Infrastructure
+dir
+

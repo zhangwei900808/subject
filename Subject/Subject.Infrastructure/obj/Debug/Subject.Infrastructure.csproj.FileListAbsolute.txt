@@ -1,0 +1,7 @@
+F:\NProject\Subject\Subject\Subject.Infrastructure\bin\Debug\Subject.Infrastructure.dll
+F:\NProject\Subject\Subject\Subject.Infrastructure\bin\Debug\Subject.Infrastructure.pdb
+F:\NProject\Subject\Subject\Subject.Infrastructure\obj\Debug\Subject.Infrastructure.dll
+F:\NProject\Subject\Subject\Subject.Infrastructure\obj\Debug\Subject.Infrastructure.pdb
+F:\NProject\Subject\Subject\Subject.Infrastructure\bin\Debug\Subject.Model.dll
+F:\NProject\Subject\Subject\Subject.Infrastructure\bin\Debug\Subject.Model.pdb
+F:\NProject\Subject\Subject\Subject.Infrastructure\obj\Debug\Subject.Infrastructure.csprojResolveAssemblyReference.cache

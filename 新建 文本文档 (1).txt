@@ -1,0 +1,11 @@
+操作系统表
+课程表
+资源表(多媒体文件(rmvb,word,ppt,txt试卷))
+贴子表
+用户贴子表
+用户表
+个人动态表
+类别表
+
+
+E:\Projects\Hotels\HotelCheckIn\HotelCheckIn\HotelCheckIn_PlatformSystem\DataService\WebService\Interface

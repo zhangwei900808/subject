@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/6/trunk/Subject/Subject.DAO/Views
+END
+CourseView.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/Subject/Subject.DAO/Views/CourseView.cs
+END
+UserPostsView.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/Subject/Subject.DAO/Views/UserPostsView.cs
+END
+PostsView.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/Subject/Subject.DAO/Views/PostsView.cs
+END
+ResourcesView.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/Subject/Subject.DAO/Views/ResourcesView.cs
+END
+ResourseAndCourseView.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/Subject/Subject.DAO/Views/ResourseAndCourseView.cs
+END

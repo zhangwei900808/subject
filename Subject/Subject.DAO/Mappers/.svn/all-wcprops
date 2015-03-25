@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6/trunk/Subject/Subject.DAO/Mappers
+END
+UserPostsMapper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/trunk/Subject/Subject.DAO/Mappers/UserPostsMapper.cs
+END
+PostsMapper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/Subject/Subject.DAO/Mappers/PostsMapper.cs
+END
+ResourcesMapper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/trunk/Subject/Subject.DAO/Mappers/ResourcesMapper.cs
+END
+CourseMapper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/Subject/Subject.DAO/Mappers/CourseMapper.cs
+END

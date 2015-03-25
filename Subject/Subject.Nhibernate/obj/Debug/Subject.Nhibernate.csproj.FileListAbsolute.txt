@@ -1,0 +1,9 @@
+F:\NProject\Subject\Subject\Subject.Nhibernate\bin\Debug\Subject.Nhibernate.dll
+F:\NProject\Subject\Subject\Subject.Nhibernate\bin\Debug\Subject.Nhibernate.pdb
+F:\NProject\Subject\Subject\Subject.Nhibernate\obj\Debug\Subject.Nhibernate.dll
+F:\NProject\Subject\Subject\Subject.Nhibernate\obj\Debug\Subject.Nhibernate.pdb
+F:\NProject\Subject\Subject\Subject.Nhibernate\bin\Debug\Iesi.Collections.dll
+F:\NProject\Subject\Subject\Subject.Nhibernate\bin\Debug\NHibernate.dll
+F:\NProject\Subject\Subject\Subject.Nhibernate\bin\Debug\Subject.Model.dll
+F:\NProject\Subject\Subject\Subject.Nhibernate\bin\Debug\Subject.Model.pdb
+F:\NProject\Subject\Subject\Subject.Nhibernate\obj\Debug\Subject.Nhibernate.csprojResolveAssemblyReference.cache

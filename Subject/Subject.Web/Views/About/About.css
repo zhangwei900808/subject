@@ -1,0 +1,17 @@
+﻿#a-content
+{
+    width: 900px;
+    margin: 0 auto;
+}
+#a-content p
+{
+    text-align: left;
+    line-height: 4em;
+    color: green;
+    text-indent: 2em;
+}
+#a-content p:first-letter
+{
+    font-size: 300%;
+    float: left;
+}

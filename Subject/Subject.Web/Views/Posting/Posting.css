@@ -1,0 +1,45 @@
+﻿#txt-title {
+    width: 300px;
+}
+#ta-content {
+    width: 500px;
+    height: 500px;
+}
+.ta-content {
+    width: 500px;
+    height: 500px;
+}
+.posting-table {
+    width: 975px;
+    margin: 0 auto;
+    padding: 0;
+    margin-bottom: 10px;
+    border: 1px solid #eee;
+    border-spacing: 0;
+    border-collapse: collapse;
+    font-size: 14px;
+    height: 690px;
+}
+.posting-table tr td:first-child {
+    width: 180px;
+     background-color: #EFF4FB;
+    vertical-align: top;
+    padding: 10px;
+}
+.posting-table tr td:last-child {
+    text-align: left;
+    padding: 5px;
+    width: 800px;
+}
+.posting-table tr:last-child td:last-child {
+    vertical-align: top;
+    padding: 5px;
+}
+#btn-posting {
+    margin: 10px;
+    float: right;
+}
+#tip {
+    color: red;
+    margin-left: 10px;
+}

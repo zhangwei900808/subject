@@ -1,0 +1,6 @@
+F:\NProject\Subject\Subject\Subject.Model\bin\Debug\Subject.Model.dll
+F:\NProject\Subject\Subject\Subject.Model\bin\Debug\Subject.Model.pdb
+F:\NProject\Subject\Subject\Subject.Model\obj\Debug\Subject.Model.dll
+F:\NProject\Subject\Subject\Subject.Model\obj\Debug\Subject.Model.pdb
+F:\NProject\Subject\Subject\Subject.Model\bin\Debug\Iesi.Collections.dll
+F:\NProject\Subject\Subject\Subject.Model\obj\Debug\Subject.Model.csprojResolveAssemblyReference.cache

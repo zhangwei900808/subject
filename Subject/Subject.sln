@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subject.Web", "Subject.Web\Subject.Web.csproj", "{F13378C1-1208-4859-9B3A-197722352106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subject.Nhibernate", "Subject.Nhibernate\Subject.Nhibernate.csproj", "{A918F16E-FBEE-4348-8E7C-1B71E4A65A28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subject.DAO", "Subject.DAO\Subject.DAO.csproj", "{D45935EE-E195-40A7-B397-88BB54575952}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subject.Model", "Subject.Model\Subject.Model.csproj", "{CC36CBB5-8120-4E2E-9939-D0D84E30CD45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subject.Infrastructure", "Subject.Infrastructure\Subject.Infrastructure.csproj", "{316C36E8-6E2E-43FE-8892-48C1CEA945DE}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F13378C1-1208-4859-9B3A-197722352106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F13378C1-1208-4859-9B3A-197722352106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F13378C1-1208-4859-9B3A-197722352106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F13378C1-1208-4859-9B3A-197722352106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A918F16E-FBEE-4348-8E7C-1B71E4A65A28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A918F16E-FBEE-4348-8E7C-1B71E4A65A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A918F16E-FBEE-4348-8E7C-1B71E4A65A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A918F16E-FBEE-4348-8E7C-1B71E4A65A28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D45935EE-E195-40A7-B397-88BB54575952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45935EE-E195-40A7-B397-88BB54575952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45935EE-E195-40A7-B397-88BB54575952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45935EE-E195-40A7-B397-88BB54575952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC36CBB5-8120-4E2E-9939-D0D84E30CD45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC36CBB5-8120-4E2E-9939-D0D84E30CD45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC36CBB5-8120-4E2E-9939-D0D84E30CD45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC36CBB5-8120-4E2E-9939-D0D84E30CD45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{316C36E8-6E2E-43FE-8892-48C1CEA945DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{316C36E8-6E2E-43FE-8892-48C1CEA945DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{316C36E8-6E2E-43FE-8892-48C1CEA945DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{316C36E8-6E2E-43FE-8892-48C1CEA945DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

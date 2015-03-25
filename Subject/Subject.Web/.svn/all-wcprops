@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/18/trunk/Subject/Subject.Web
+END
+Global.asax.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12/trunk/Subject/Subject.Web/Global.asax.cs
+END
+Web.Release.config
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12/trunk/Subject/Subject.Web/Web.Release.config
+END
+Default.aspx.designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12/trunk/Subject/Subject.Web/Default.aspx.designer.cs
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/Subject/Subject.Web/Web.config
+END
+Default.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12/trunk/Subject/Subject.Web/Default.aspx.cs
+END
+Web.Debug.config
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12/trunk/Subject/Subject.Web/Web.Debug.config
+END
+Course.Master
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12/trunk/Subject/Subject.Web/Course.Master
+END
+Subject.Web.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/25/trunk/Subject/Subject.Web/Subject.Web.csproj
+END
+Global.asax
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12/trunk/Subject/Subject.Web/Global.asax
+END
+Course.Master.designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12/trunk/Subject/Subject.Web/Course.Master.designer.cs
+END
+Course.Master.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12/trunk/Subject/Subject.Web/Course.Master.cs
+END
+Default.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12/trunk/Subject/Subject.Web/Default.aspx
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12/trunk/Subject/Subject.Web/hibernate.cfg.xml
+END
